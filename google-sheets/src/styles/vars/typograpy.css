@@ -1,0 +1,15 @@
+:root {
+  --fw-semibold:600;
+  --fw-normal:500;
+  --fw-regular:400;
+
+  --body1-fs: 18px;
+  --body2-fs: 14px;
+  --caption1-fs: 13px;
+
+  --body1-lh: 24px;
+  --body2-lh: 20px;
+  --caption1-lh: 20px;
+
+
+}
